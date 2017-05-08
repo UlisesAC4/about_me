@@ -1,0 +1,15 @@
+current directory: /home/ulises/Projects/about_me/vendor/bundle/ruby/2.4.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+/usr/bin/ruby -r ./siteconf20170508-5131-1b4boex.rb extconf.rb
+creating Makefile
+
+current directory: /home/ulises/Projects/about_me/vendor/bundle/ruby/2.4.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/ulises/Projects/about_me/vendor/bundle/ruby/2.4.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/ulises/Projects/about_me/vendor/bundle/ruby/2.4.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20170508-5131-fzl18
